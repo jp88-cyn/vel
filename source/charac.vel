@@ -1,0 +1,16 @@
+
+
+{
+
+    Mary.char = True
+    Raiko.char = True
+    Satoshi.char = Unloaded
+    #$&**@().char = Undefined
+    Hank.char = True
+    Kitsune.char = True
+    Lich.char = True 
+    Jonatham.char = True
+    Gabe.char = Lost
+    Charles.char = Unloaded
+}
+
